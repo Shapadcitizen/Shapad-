@@ -1,0 +1,17 @@
+.navlink {
+    font-size: 1.2rem;
+    color: white;
+    font-family: 'lato';
+    font-weight: 500;
+
+}
+
+@media(max-width: 768px) {
+    .navlink {
+        font-size: 1.1rem;
+        color: white;
+        font-family: 'lato';
+        font-weight: 500;
+
+    }
+}

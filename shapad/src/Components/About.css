@@ -1,0 +1,15 @@
+.main-header {
+    font-size: 8rem;
+    font-weight: 900;
+    font-family: lato;
+
+}
+
+@media(max-width:768px) {
+    .main-header {
+        font-size: 3rem;
+        font-weight: 900;
+        font-family: lato;
+
+    }
+}

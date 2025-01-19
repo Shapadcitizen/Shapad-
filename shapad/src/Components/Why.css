@@ -1,0 +1,38 @@
+.main1 {
+    font-size: 8rem;
+    color: white;
+    font-weight: 700;
+    margin-bottom: 3rem;
+}
+
+.servicesmain {
+    font-size: 30px;
+    font-family: 'lato';
+    font-weight: 700;
+    margin-bottom: 3rem
+}
+
+.servicessub {
+    font-size: 20px;
+    font-family: 'lato';
+    font-weight: 500;
+    line-height: 34px;
+}
+
+
+@media (max-width: 768px) {
+    .main1 {
+        font-size: 2.2rem;
+    }
+
+    .servicesmain {
+        font-size: 28px;
+    }
+
+    .servicessub {
+        font-size: 18px;
+        font-family: 'lato';
+        font-weight: 500;
+        line-height: 34px;
+    }
+}
