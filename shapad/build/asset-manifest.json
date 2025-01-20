@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9866d712.css",
-    "main.js": "/static/js/main.831efd4f.js",
+    "main.css": "/static/css/main.2fcf3180.css",
+    "main.js": "/static/js/main.84e9aced.js",
     "static/media/Nolly Reveal Main(1).mp4": "/static/media/Nolly Reveal Main(1).d554e404672ef6b9e114.mp4",
     "static/media/nolly.mp4": "/static/media/nolly.51ef1e168914d1a70df7.mp4",
     "static/media/cap.webp": "/static/media/cap.a628b03d1ca2b979a1d2.webp",
@@ -31,11 +31,11 @@
     "static/media/Billboard.webp": "/static/media/Billboard.1c1a4bd6d41ca6808af3.webp",
     "static/media/White hat.webp": "/static/media/White hat.86b86d2931175a72955c.webp",
     "index.html": "/index.html",
-    "main.9866d712.css.map": "/static/css/main.9866d712.css.map",
-    "main.831efd4f.js.map": "/static/js/main.831efd4f.js.map"
+    "main.2fcf3180.css.map": "/static/css/main.2fcf3180.css.map",
+    "main.84e9aced.js.map": "/static/js/main.84e9aced.js.map"
   },
   "entrypoints": [
-    "static/css/main.9866d712.css",
-    "static/js/main.831efd4f.js"
+    "static/css/main.2fcf3180.css",
+    "static/js/main.84e9aced.js"
   ]
 }

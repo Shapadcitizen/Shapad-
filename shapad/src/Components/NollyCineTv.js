@@ -50,12 +50,12 @@ const Nolly = () => {
                         </Col>
                         <Col xs={10} sm={10} md={4}>
                             <div className='text-start'>
-                                <p>We envisioned Nolly Cine TV as more than just a platform—it’s a movement breaking away from the ordinary. To capture this, we introduced the shattering glass motif, symbolizing their bold and disruptive approach to storytelling</p>
+                                <p className='pt-3'>We envisioned Nolly Cine TV as more than just a platform—it’s a movement breaking away from the ordinary. To capture this, we introduced the shattering glass motif, symbolizing their bold and disruptive approach to storytelling</p>
                             </div>
                         </Col>
                     </Row>
 
-                    <Row className='d-flex justify-content-start text-white my-5'>
+                    <Row className='d-flex justify-content-start text-white my-4'>
                         <Col xs={10} sm={10} md={4}>
                             <div>
                                 <p>
@@ -63,8 +63,8 @@ const Nolly = () => {
                                     Designed as a
                                     pulse, representing suspense and the thrill of Nollywood entertainment.
                                     Shattered Glass Elements, Infused with symbols like play, move up, and move down to represent dynamic, non-linear storytelling and user engagement.<br />
-                                    <span className='mt-5'>The Colour Palette,
-                                        Vibrant yet bold, the colours reflect Nollywood's energy, diversity, and cultural richness while maintaining a premium, cinematic feel.</span>
+                                    <p className='my-3'>The Colour Palette,
+                                        Vibrant yet bold, the colours reflect Nollywood's energy, diversity, and cultural richness while maintaining a premium, cinematic feel.</p>
 
                                 </p>
                             </div>
@@ -123,7 +123,7 @@ const Nolly = () => {
                             <Col xs={10} sm={10} md={4}>
                                 <div className='result' >
 
-                                    <p>
+                                    <p className='my-3'>
 
                                         A brand identity that resonated with Nolly Cine TV’s mission to disrupt the norm and captivate audiences globally. From concept to final execution, the design delivered excitement, suspense, and cultural pride, positioning the platform as a standout in the industry.  </p>
                                 </div>
@@ -182,7 +182,7 @@ const Nolly = () => {
 
                         <Row className='mt-5'>
                             <Col xs={10} sm={10} md={4}>
-                                <div>
+                                <div className='mb-3'>
                                     <p>
                                         This project reinforced Shapad Communications Ltd’s commitment to redefining how brands communicate their essence through innovative storytelling.
 
